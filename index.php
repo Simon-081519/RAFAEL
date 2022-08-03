@@ -52,7 +52,7 @@
 
     <div class="container">
         <div class="img-col">
-            <img class="image" src="masr.jpg"/>
+            <img class="image" src="pictures/masr.jpg"/>
         </div>
         
         <div class="text">
